@@ -1,4 +1,4 @@
-#Set Work Directory
+#Set work directory
 setwd("C:/Users/i54978/Desktop")
 
 #Load data
